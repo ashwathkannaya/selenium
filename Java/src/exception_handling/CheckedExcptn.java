@@ -7,6 +7,7 @@ public class CheckedExcptn
     static void submit() throws AgeException
     {
     	int age=22;
+    	int a=10;
     	if(age>21)
     	{
     		System.out.println("application submited");
